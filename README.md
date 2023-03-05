@@ -1,6 +1,6 @@
 # Windows-Setup
 
-This is a package used to streamline the Windows Insider Preview versions. Run UWD file to remove the windows watermark.
+This is a package used to streamline the Windows Insider Preview experience. Run the UWD file to remove the windows watermark.
 The Windows 11 Hidden Features.bat file enables all the Windows 11 hidden features.
 
 # Prerequisites
