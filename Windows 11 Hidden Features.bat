@@ -1,3 +1,5 @@
+echo Activate Windows 11 Hidden Features (Vivetool)
+title Activating Windows 11 Hidden features
 vivetool /enable /id:41740192
 vivetool /enable /id:41561445
 vivetool /enable /id:41561454
@@ -67,7 +69,29 @@ vivetool /enable /id:42133512
 vivetool /enable /id:42739793
 vivetool /enable /id:42592269
 vivetool /enable /id:40851068 /variant:3
+vivetool /enable /id:38612934
+vivetool /enable /id:34912776
+vivetool /enable /id:42592269
+vivetool /enable /id:41424794
+vivetool /enable /id:39661369
+vivetool /enable /id:42550315
+vivetool /enable /id:36390579 
+vivetool /enable /id:42733866
+vivetool /enable /id:38613007
+vivetool /enable /id:41040327
+vivetool /enable /id:42295138
+vivetool /enable /id:34924843
+vivetool /enable /id:40430431
+vivetool /enable /id:39696859
+vivetool /enable /id:39405701
+vivetool /enable /id:41040327
+vivetool /enable /id:40729001
+vivetool /enable /id:40731912
+vivetool /enable /id:41969252
+vivetool /enable /id:42922424
+vivetool /enable /id:42295138
 
+PAUSE
 
 
 
