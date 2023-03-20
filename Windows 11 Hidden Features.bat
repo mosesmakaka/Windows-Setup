@@ -90,6 +90,8 @@ vivetool /enable /id:40731912
 vivetool /enable /id:41969252
 vivetool /enable /id:42922424
 vivetool /enable /id:42295138
+vivetool /enable /id:43132439
+vivetool /enable /id:42133512
 
 PAUSE
 
