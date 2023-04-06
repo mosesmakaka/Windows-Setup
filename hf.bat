@@ -92,13 +92,10 @@ vivetool /enable /id:42922424
 vivetool /enable /id:42295138
 vivetool /enable /id:43132439
 vivetool /enable /id:42133512
-
-PAUSE
-
-
-
-
-
-
-
-
+vivetool /enable /id:43349158
+vivetool /enable /id:43572857
+vivetool /enable /id:42934589
+vivetool /enable /id:42934589
+vivetool /enable /id:43214488
+vivetool /enable /id:43028164
+vivetool /enable /id:38890980
